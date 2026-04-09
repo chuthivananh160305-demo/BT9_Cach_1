@@ -6,7 +6,6 @@
 
 ##  Bài tập buổi 9  
 
-### 🔹 Cách 2: AsyncStorage (Lưu trạng thái đăng nhập)
 
 ###  Ảnh 1
 <img src="./BT9_Cach_asyncStorage_1.jpg" width="300"/>
